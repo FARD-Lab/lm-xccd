@@ -1,0 +1,10 @@
+scikit-learn
+aiohttp
+peft
+transformers 
+accelerate
+scikit-learn
+typing_extensions
+tiktoken
+numpy
+scipy

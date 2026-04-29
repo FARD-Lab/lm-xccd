@@ -1,0 +1,5 @@
+language_pair,same_samples,phi3_same_avg_tokens,qwen_same_avg_tokens,different_samples,phi3_different_avg_tokens,qwen_different_avg_tokens,combined_samples,phi3_combined_avg_tokens,qwen_combined_avg_tokens
+Java-Python,1000,580.44,425.53,1000,932.14,698.68,2000,756.29,562.11
+Rust-Java,1000,16323.65,14385.11,1000,17085.11,14993.38,2000,16704.38,14689.25
+Rust-Python,1000,12562.51,11109.36,1000,15891.44,14046.22,2000,14226.98,12577.79
+Rust-Ruby,1000,15198.59,13473.11,1000,13018.05,11486.30,2000,14108.32,12479.71
